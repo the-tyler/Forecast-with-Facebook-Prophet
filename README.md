@@ -1,5 +1,6 @@
 # Forecast-with-Facebook-Prophet
 Bitcoin Price Forecast with Facebook Prophet in Python
+
 End-to-end and easy-to-use tool for data scientist that want make price predictions without going into details of forecasting models
 
 Starts with loading daily BTC/USDT data from Binance by using CCXT library (parametric for exchange, starting date of data, cryptocurrency and timeframe)
